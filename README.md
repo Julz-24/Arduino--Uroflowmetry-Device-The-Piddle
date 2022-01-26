@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Julz-24
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to make an arduino project
+- 👋 Hi, I’m Julia
+
 
 <!---
 Julz-24/Julz-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
