@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Julia
-
-
-<!---
-Julz-24/Julz-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Arduino codes for Load-cell uroflowmetry device.
